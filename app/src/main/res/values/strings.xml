@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UniSammelApp</string>
+    <string name="areaString">Aktuelles Gebiet</string>
+    <string name="areaDefault">Außerhalb der Uni</string>
+    <string name="areaMath">Mathe</string>
+    <string name="areaMed">Medizin</string>
+    <string name="areaBusiness">Business</string>
+    <string name="petListActivityBtnString">Meine Tiere</string>
+
+    <string name="reservesText">Nahrungsreserven</string>
+    <string name="reservesDefault">5000</string>
+    <string name="baitText">Nahrung als Köder nutzen</string>
+    <string name="btnBait">Köder hier platzieren</string>
+
+    <string name="newPetGiveName">Gib deinem neuen Tier einen Namen</string>
+    <string name="feedBtn">Tier füttern</string>
+
+</resources>
